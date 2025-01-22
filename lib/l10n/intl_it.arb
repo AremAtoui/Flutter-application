@@ -1,0 +1,22 @@
+{
+  "@title": {
+    "description": "Il titolo dell'applicazione"
+  },
+  "title": "Applicazione di Consegna",
+  "home": "Home",{
+  "appTitle": "App di Consegna",
+  "welcome": "Benvenuto nell'App di Consegna!",
+  "changeLanguage": "Cambia Lingua",
+  "home": "Casa",
+  "menu": "Menu",
+  "orders": "Ordini",
+
+}
+
+  "menu": "Menu",
+  "about": "Informazioni",
+  "aboutContent": "Questa applicazione è progettata per la gestione delle consegne con un menu interattivo.",
+  "logout": "Disconnettersi",
+  "welcomeText": "Benvenuto nell'applicazione di consegna!",
+  "seeMenu": "Vedi il Menu"
+}
